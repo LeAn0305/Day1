@@ -1,0 +1,7 @@
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\bin\Debug\QuanLyStudent.exe.config
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\bin\Debug\QuanLyStudent.exe
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\bin\Debug\QuanLyStudent.pdb
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.AssemblyReference.cache
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\obj\Debug\QuanLyStudent.csproj.CoreCompileInputs.cache
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\obj\Debug\QuanLyStudent.exe
+D:\VisualStudioComunity\HowToLearnC#\QuanLyStudent\QuanLyStudent\obj\Debug\QuanLyStudent.pdb

@@ -1,0 +1,14 @@
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.csproj.AssemblyReference.cache
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.csproj.CoreCompileInputs.cache
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\bin\Debug\TroChoiDoanSoCSharp.exe.config
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\bin\Debug\TroChoiDoanSoCSharp.exe
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\bin\Debug\TroChoiDoanSoCSharp.pdb
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.exe
+D:\VisualStudioComunity\HowToLearnC#\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.pdb
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\bin\Debug\TroChoiDoanSoCSharp.exe.config
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\bin\Debug\TroChoiDoanSoCSharp.exe
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\bin\Debug\TroChoiDoanSoCSharp.pdb
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.csproj.AssemblyReference.cache
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.csproj.CoreCompileInputs.cache
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.exe
+D:\VisualStudioComunity\THLapTrinhTrenMTWindows\TroChoiDoanSoCSharp\TroChoiDoanSoCSharp\obj\Debug\TroChoiDoanSoCSharp.pdb
